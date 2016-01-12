@@ -1,0 +1,32 @@
+
+{
+  "name": "hybridobject-js",
+  "version": "0.0.1",
+  "engines": {
+    "node": "0.12.x"
+  },
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/syuhei176/HybridObjectJS"
+  },
+  "license": "MPL-2.0",
+  "keywords": [
+    "openhybrid",
+    "ar",
+    "iot"
+  ],
+  "author": {
+    "name": "syuhei176",
+    "email": "syuhei176@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "syuhei176",
+	    "email": "syuhei176@gmail.com"
+    }
+  ]
+}
